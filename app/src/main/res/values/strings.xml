@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Skin Cancer Detection</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">TAMBAH IMG</string>
+    <string name="replace_image">GANTI IMG</string>
+    <string name="analyze">ANALISA</string>
+    <string name="result">HASIL ANAILSA</string>
+    <string name="image_classifier_failed">IMG GAGAL DI CLASSIFIKASI. CEK ERROR LOGS</string>
+    <string name="label">KANKERr</string>
+    <string name="articles">AERTIKEL</string>
+    <string name="titles">Tesla-Tata Electronics discreet pact boosts India\'s semiconductor ambitions as EV giant eyes local production: Report</string>
+    <string name="description">TheTesla-Tata deal, executed discreetly a few months ago, positions Tata Electronics as a reliable supplier for top-tier international clients seeking to establish a crucial component of their semiconductor value chain within India, as per an ET report.</string>
+    <string name="history">HISTORY</string>
+</resources>
